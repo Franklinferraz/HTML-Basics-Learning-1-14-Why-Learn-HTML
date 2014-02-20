@@ -1,0 +1,55 @@
+Start Here
+Each lesson starts here. Read the explanation, 
+then follow the instructions underneath. 
+If you get stuck, you can click on the "Hint" for help.
+Next  →
+
+
+Enter Your Code
+Type your response to the instructions here, in your code editor.
+Next  →
+
+
+See What it Does!
+Here's where you can see how your code will render in your browser.
+This will update as you type.
+Next  →
+
+Submit
+Ready to see if your code does what it should? Click "Save + Submit" 
+to check your code!
+
+I'm ready!
+
+Why learn HTML?
+Every webpage you look at is written in a language called HTML. 
+You can think of HTML as the skeleton that gives every webpage structure. 
+In this course, we'll use HTML to add paragraphs, headings, images and links to a webpage.
+
+In the editor to the right, 
+there's a tab called test.html. 
+This is the file we'll type our HTML into. 
+See the code with the <>s? 
+That's HTML! Like any language, 
+it has its own special syntax (rules for communicating).
+
+When we press Save & Submit Code, 
+the results tab will act like an Internet browser 
+(e.g. Chrome, Firefox, Internet Explorer). 
+A browser's job is to transform the code in test.html into a recognizable webpage!
+It knows how to lay out the page by following the HTML syntax.
+
+Instructions
+To the right, we have a test.html file.
+Change the text on line 2 
+(the bit between <strong> and </strong>) 
+to anything you like!
+Hit Save & Submit Code, and you'll see how the test.html file would look in a browser. 
+Did you see that? The <strong></strong> tags made our text bold!
+
+Hint
+If you're not sure what to change the text on line 2 to, 
+why not change Feel free to change this text. to I'm about to learn HTML?
+
+Don't change or remove the <strong> bit or the </strong> bit! 
+We'll explain what those do soon.
