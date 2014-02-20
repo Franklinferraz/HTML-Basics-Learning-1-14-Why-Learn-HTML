@@ -19,6 +19,9 @@ Submit
 Ready to see if your code does what it should? Click "Save + Submit" 
 to check your code!
 
+Save & Submit Code
+Reset Code
+
 I'm ready!
 
 Why learn HTML?
@@ -53,3 +56,8 @@ why not change Feel free to change this text. to I'm about to learn HTML?
 
 Don't change or remove the <strong> bit or the </strong> bit! 
 We'll explain what those do soon.
+
+
+Q&A ForumGlossary
+
+
